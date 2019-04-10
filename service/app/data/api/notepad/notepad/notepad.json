@@ -1,63 +1,75 @@
 [
-  {
-    "content": "微信小程序",
-    "createTime": 1554039373472,
-    "id": 1554039373472,
-    "updateTime": ""
-  },
-  {
-    "title": "阅读",
-    "content": "增广贤文\n作为电子书的形式在状态极佳的情况下阅读，建议时间段为早上坐地铁的时间",
-    "createTime": 1552156133470,
-    "id": 1552156133470,
-    "updateTime": ""
-  },
-  {
-    "title": "学习",
-    "content": "戴星河老师的走进大诗人系列-陶渊明",
-    "createTime": 1552155193873,
-    "id": 1552155193873,
-    "updateTime": ""
-  },
-  {
-    "title": "",
-    "content": "\n做一个npm包  把内置的nodejs公共化\n",
-    "createTime": 1552155044277,
-    "id": 1552155044277,
-    "updateTime": ""
-  },
-  {
-    "content": "轻听英语\n从人教版三年级开始听\n必要的时候可以购买会员",
-    "createTime": 1554039201434,
-    "id": 1554039201434,
-    "updateTime": ""
-  },
-  {
-    "title": "输出",
-    "content": "Chrome 浏览器教学视频 和 掘金小册子",
-    "createTime": 1552156498671,
-    "id": 1552156498671,
-    "updateTime": 1554039248629
-  },
-  {
-    "title": "输出",
-    "content": "自己的pc端UI框架\n",
-    "createTime": 1552156550421,
-    "id": 1552156550421,
-    "updateTime": ""
-  },
-  {
-    "title": "学习",
-    "content": "回顾Java",
-    "createTime": 1552156510680,
-    "id": 1552156510680,
-    "updateTime": ""
-  },
-  {
-    "title": "电台",
-    "content": "收听运营、理财、营销等话题",
-    "createTime": 1552156254021,
-    "id": 1552156254021,
-    "updateTime": ""
-  }
+    {
+        "content": "自此以后\n减少对文章、复制粘贴、文档、搜索引擎、代码提示工具、浏览器、框架、开发者工具依赖\n\n做到开发的准确、稳定，不必拘泥于技法 而要专注与功能 \n\n不再大的方向上犯错即可\n\n对内要持续学习  对外要不断输出 来强化所学，做到学以致用\n\n对原理的精准明确  对场景的拿捏到位\n\n可以模仿已有产品的功能\n\n\n\n\n\n",
+        "title": "登封造极的境界",
+        "createTime": 1554913186361,
+        "id": 1554913186361,
+        "updateTime": 1554913347844
+    },
+    {
+        "content": "SKdUodHlmp6GfrUEBmnxkNiB9ByJAjkeCAO27xNMPrOmjXXgLc4c1gUjpmOV6qCAHck4bx3yHwcfFgqQzME0X0jBbBguvHFX/RuNaJJdbKLkh62K5tSxDwODgdqixANmydSF3OLUTX8vo/OnaDE+E4aYeZdk1YlJFXnws/74GK51Ez3kkLhGZrtoeRZpk1APkjpBA+mu3deRSmZGFjY4byOOK6eU4Hzgo0RPdBXdxBcQ8cSzbBv9SLPUe4tjirLhEnTxWcDMVZbRH9T9k8foVH6AzNvRxa1qjs2jddD2xDvrfpI9rK09YepdyJsDvSpT",
+        "isEncrypt": true,
+        "createTime": 1554913544336,
+        "id": 1554913544336,
+        "updateTime": ""
+    },
+    {
+        "content": "千年的古文下册",
+        "createTime": 1554913266476,
+        "id": 1554913266476,
+        "updateTime": ""
+    },
+    {
+        "content": "戴建业走进李白",
+        "createTime": 1554913211816,
+        "id": 1554913211816,
+        "updateTime": ""
+    },
+    {
+        "content": "微信小程序",
+        "createTime": 1554039373472,
+        "id": 1554039373472,
+        "updateTime": ""
+    },
+    {
+        "title": "阅读",
+        "content": "增广贤文\n作为电子书的形式在状态极佳的情况下阅读，建议时间段为早上坐地铁的时间",
+        "createTime": 1552156133470,
+        "id": 1552156133470,
+        "updateTime": ""
+    },
+    {
+        "content": "轻听英语\n从人教版三年级开始听\n必要的时候可以购买会员",
+        "createTime": 1554039201434,
+        "id": 1554039201434,
+        "updateTime": ""
+    },
+    {
+        "title": "输出",
+        "content": "Chrome 浏览器教学视频 和 掘金小册子",
+        "createTime": 1552156498671,
+        "id": 1552156498671,
+        "updateTime": 1554039248629
+    },
+    {
+        "title": "输出",
+        "content": "自己的pc端UI框架\n",
+        "createTime": 1552156550421,
+        "id": 1552156550421,
+        "updateTime": ""
+    },
+    {
+        "title": "学习",
+        "content": "回顾Java",
+        "createTime": 1552156510680,
+        "id": 1552156510680,
+        "updateTime": ""
+    },
+    {
+        "title": "电台",
+        "content": "收听运营、理财、营销等话题",
+        "createTime": 1552156254021,
+        "id": 1552156254021,
+        "updateTime": ""
+    }
 ]
