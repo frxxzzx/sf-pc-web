@@ -1,5 +1,4 @@
 "use strict";
-const packageConfig = require("../package.json");
 const path = require("path");
 const utils = require("./utils");
 const webpack = require("webpack");
@@ -62,7 +61,6 @@ const webpackConfig = merge(baseWebpackConfig, {
     // you can customize output by editing /index.html
     // see https://github.com/ampedandwired/html-webpack-plugin
     new HtmlWebpackPlugin({
-      title: packageConfig.name,
       filename: config.build.index,
       template: "index.html",
       inject: true,
