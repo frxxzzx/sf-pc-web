@@ -79,6 +79,7 @@
   }
 }
 
+
 </style>
 <template>
   <div id="notepad-id">
@@ -403,7 +404,7 @@ export default {
     onInAdd() {
       this.activNotepad = {
         content: "",
-        loadCount: 0, //用户黏贴图片的时候记录正在转换的图片个数,loadCount为0时,才可以提交图片
+        loadCount: 0,
         base64: {}
       };
       this.isShowAddModel = true;
