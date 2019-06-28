@@ -5,12 +5,7 @@ export default {
   name: "show_notepad",
   render(createElement) {
     let imgStuffixList = [".jpg", ".jpeg", ".gif", ".png"];
-    // let pattern = RegExp(`(http|https|${BASE64_IMG_PROTOCOL}):\/\/[\\S]+`, "g");
-    // \u4e00-\u9fa5 匹配查询参数里的中文
-    let pattern = RegExp(
-      `(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;\u4e00-\u9fa5]+[-A-Za-z0-9+&@#/%=~_|\u4e00-\u9fa5]`,
-      "g"
-    );
+    let pattern = RegExp(`(http|https|${BASE64_IMG_PROTOCOL}):\/\/[\\S]+`, "g");
     let lastIndex = 0;
     let renderList = [];
     let result;
@@ -73,10 +68,6 @@ export default {
         lastIndex = pattern.lastIndex;
       }
     }
-    //处理后面的元素
-    renderList.push(
-      this.data.content.substring(lastIndex, this.data.content.length)
-    );
     return createElement(
       "div",
       {
