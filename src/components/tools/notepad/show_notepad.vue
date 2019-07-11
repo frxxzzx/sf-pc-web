@@ -6,7 +6,7 @@ export default {
   render(createElement) {
     let imgStuffixList = [".jpg", ".jpeg", ".gif", ".png"];
     let pattern = RegExp(
-      `(https?|ftp|file)://[-A-Za-z0-9+&@#/%?=~_|!:,.;\u4e00-\u9fa5]+[-A-Za-z0-9+&@#/%=~_|\u4e00-\u9fa5]`,
+      `(https?|ftp|file|${BASE64_IMG_PROTOCOL})://[-A-Za-z0-9+&@#/%?=~_|!:,.;\u4e00-\u9fa5]+[-A-Za-z0-9+&@#/%=~_|\u4e00-\u9fa5]`,
       "g"
     );
     let lastIndex = 0;
